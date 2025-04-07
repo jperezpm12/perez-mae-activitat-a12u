@@ -47,3 +47,7 @@ cd /c/projectes
 git clone https://github.com/<el-teu-usuari>/portfoli-tecnic-markdown.git
 cd portfoli-tecnic-markdown
 
+
+![Descripció de la imatge](images/logo.png)
+
+
