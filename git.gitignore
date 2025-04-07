@@ -1,0 +1,19 @@
+# Ignorar el directori node_modules (si estàs treballant amb Node.js)
+node_modules/
+
+# Ignorar fitxers temporals de l'editor VSCode
+.vscode/
+
+# Ignorar fitxers de configuració de sistema
+.DS_Store   # (només en MacOS)
+Thumbs.db   # (només en Windows)
+
+# Ignorar logs de sistema
+*.log
+
+# Ignorar fitxers de compilació de Java
+*.class
+
+# Ignorar fitxers de compilació de Python
+__pycache__/
+*.pyc
