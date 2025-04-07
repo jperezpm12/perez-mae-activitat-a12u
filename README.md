@@ -48,6 +48,6 @@ git clone https://github.com/<el-teu-usuari>/portfoli-tecnic-markdown.git
 cd portfoli-tecnic-markdown
 
 
-![Descripció de la imatge](images/imatge.jpg)
+![Descripció de la imatge](C:\projectes\perez-mae-activitat-a12u\images)
 
 
