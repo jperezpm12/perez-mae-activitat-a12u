@@ -40,5 +40,10 @@ Abans de començar, comprova que tens:
 
 ### 🔽 2. Clona el repositori al teu ordinador
 
+Obre Git Bash i escriu:
 
+```bash
+cd /c/projectes
+git clone https://github.com/<el-teu-usuari>/portfoli-tecnic-markdown.git
+cd portfoli-tecnic-markdown
 
