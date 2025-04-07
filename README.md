@@ -1,28 +1,44 @@
-# Javier Pérez
+#  Repte Markdown + GitHub: Crea el teu portfoli tècnic
 
-![Perfil](https://via.placeholder.com/150)
+##  Què aprendràs?
 
-> "Sempre estic buscant maneres de millorar com a desenvolupador."
+En aquesta activitat practicaràs com **documentar un projecte professional** utilitzant **Markdown avançat** dins d’un repositori de GitHub. També descobriràs com utilitzar `.gitignore` per **netejar el teu codi**, i com aplicar **format visual** per fer que la presentació del projecte sigui clara i atractiva.
 
-## Projectes
-- [Projecte videojoc en Roblox](https://github.com/javierperez/roblox-game)
-- [Web amb WordPress](https://github.com/javierperez/wordpress-site)
+Simularàs una situació real: muntar un portfoli online per presentar a un professor, una empresa o acompanyar el teu CV.
 
-## Coneixements
+---
 
-| Llenguatge | Nivell | Experiència |
-|------------|--------|-------------|
-| HTML       | Alt    | 2 anys      |
-| Python     | Mig    | 1 any       |
-| Lua        | Mig    | 6 mesos     |
+## ⏳ Durada estimada
 
-## Definicions
+⌛ 2 hores
 
-Git
-: Sistema de control de versions distribuït.
+---
 
-Markdown
-: Llenguatge lleuger per donar format a text pla.
+## 🧰 Material necessari
 
-HTML
-: Llenguatge per estructurar pàgines web.
+Abans de començar, comprova que tens:
+
+- 💻 Un compte de GitHub actiu  
+- 🔧 Git i Git Bash instal·lats  
+- ✍️ Coneixements bàsics de Markdown  
+- ✅ Un mínim de pràctica amb Git (clonar, afegir, fer commit, pujar...)
+
+---
+
+## 🔁 Passos per completar l'activitat
+
+### 🏗️ 1. Crea el repositori
+
+1. Accedeix a [github.com](https://github.com)
+2. Clica **"New"** per crear un nou repositori
+3. Nom del repositori: `portfoli-tecnic-markdown`
+4. No marquis cap opció (ni README, ni .gitignore, ni llicència)
+5. Clica **"Create repository"**
+6. Afegeix com a col·laborador l’usuari: `josepsalto11`
+
+---
+
+### 🔽 2. Clona el repositori al teu ordinador
+
+
+
